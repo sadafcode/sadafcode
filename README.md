@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sadaf 👋</h1>
+<h1 align="center">Hi there, I'm Sadaf 👋</h1>
 <h3 align="center">Co-Founder @ Yveloxy · AI Engineer · Full-Stack Developer</h3>
 
 <p align="center">
@@ -18,8 +18,10 @@ I specialize in building **production-ready AI applications** — from LLM-power
 - 🏢 **Co-Founder** at [Yveloxy](https://yveloxy.com) — AI-powered products for real businesses
 - 🤖 Building with **OpenAI Agents SDK**, **MCP (Model Context Protocol)**, **FastAPI**
 - ☸️ Deploying with **Docker + Kubernetes + Helm**
-- 🧠 BSc (Hons) Mathematics · PIAIC Certified
+- 🧠 BSc (Hons) Mathematics · Currently enrolled at PIAIC
+- 🔧 Open source contributor to **n8n** workflow automation
 - 📍 Karachi, Pakistan
+- ⚡ Fun fact: Returned to tech to pursue AI & automation — and never looked back!
 
 ---
 
@@ -31,12 +33,16 @@ I specialize in building **production-ready AI applications** — from LLM-power
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **Frontend & Full-Stack**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **DevOps & Cloud**
 
@@ -44,6 +50,17 @@ I specialize in building **production-ready AI applications** — from LLM-power
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E699?style=flat-square&logo=neon&logoColor=black)
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 AI agent development with **OpenAI Agents SDK**
+- 🧩 **MCP (Model Context Protocol)** implementation & integration
+- ✍️ Advanced **prompt engineering** techniques
+- 📋 **Spec-driven development** practices
+- ☸️ Production deployments with **Kubernetes & Helm**
+- 🔄 Workflow automation with **n8n**
 
 ---
 
@@ -75,6 +92,8 @@ I specialize in building **production-ready AI applications** — from LLM-power
 ## 🤝 Let's Build Together
 
 I'm always open to collaborating on **AI products**, **automation systems**, or **full-stack projects**.
+
+📬 Reach me at **pearlfawad@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/sadaf-fawad)
 
 > *"Mathematics is the language of the universe; code is how we speak it to machines."*
 
